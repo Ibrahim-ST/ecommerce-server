@@ -4,10 +4,10 @@
 2. Environment setup
 3. Create express server
 4. HTTP request and response
-5. Nodemon and morgan package
+5. Nodemon and Morgan package
+6. API testing with POSTMAN
 
 
-
-Tutorial 4 done (3:00 min)
+Tutorial 6 done (2:30 min)
 
 
